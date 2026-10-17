@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Cisco CCNA (200-301) — Lab Portfolio & Network Engineering
+# 🌐 Cisco CCNA (200-301) — Lab Portfolio
 
 [![Cisco](https://img.shields.io/badge/Cisco-CCNA%20200--301-blue?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
 [![Packet Tracer](https://img.shields.io/badge/Simulator-Packet%20Tracer%208.x-brightgreen?style=for-the-badge)](https://www.netacad.com/)
